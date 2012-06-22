@@ -13,7 +13,7 @@ Create a place to put your (section, div, whatever) badges:
 Create an instance of MyCoderWallBadges object passing the object's name and your coderwall's username:
 
 	<script type="text/javascript" charset="utf-8">
-	new myCoderwallBadges('coderwall_badges', 'adlermedrado');
+	new MyCoderwallBadges('coderwall_badges', 'adlermedrado');
 	</script>
 	
 **jQuery is required**
