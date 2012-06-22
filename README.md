@@ -16,4 +16,4 @@ Create an instance of MyCoderWallBadges object passing the object's name and you
 	new myCoderwallBadges('coderwall_badges', 'adlermedrado');
 	</script>
 	
-** jQuery is required **
+**jQuery is required**
