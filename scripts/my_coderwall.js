@@ -8,8 +8,8 @@ function MyCoderwallBadges(objName, username) {
 			var currentBadge = param.data.badges[i];
 			$('#'+currentObject.objName).append(
 			   $('<img>').attr('src',currentBadge.badge)
-			   			 .attr('title',currentBadge.name+": "+currentBadge.description)
-			   			 .attr('alt',currentBadge.name+": "+currentBadge.description)						 
+			   	     .attr('title',currentBadge.name+": "+currentBadge.description)
+			   	     .attr('alt',currentBadge.name+": "+currentBadge.description)						 
 			);
 		}		
 	}
