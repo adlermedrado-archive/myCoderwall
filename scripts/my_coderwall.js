@@ -1,4 +1,4 @@
-function myCoderwallBadges(objName, username) {
+function MyCoderwallBadges(objName, username) {
 	this.objName = objName;
 	this.username = username;
 	var currentObject = this;
