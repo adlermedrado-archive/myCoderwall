@@ -1,4 +1,4 @@
-**Simple script to show my coderwall badges using coderwalls JSONP API**
+**Simple script to show my coderwall badges using coderwall's JSONP API**
 
 Made to be simple:
 
