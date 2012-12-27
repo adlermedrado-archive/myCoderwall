@@ -17,3 +17,5 @@ Create an instance of MyCoderWallBadges object passing the object's name and you
 	</script>
 	
 **jQuery is required**
+
+[![endorse](http://api.coderwall.com/adlermedrado/endorsecount.png)](http://coderwall.com/adlermedrado)
